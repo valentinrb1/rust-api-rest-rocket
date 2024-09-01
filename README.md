@@ -1,5 +1,7 @@
 # REST API for a Meal Plan in Rust Language using Rocket Framework.
 
+## Date - 2023
+
 > [!NOTE]
 > Due to time constraints, simplifications were made in the database, intuitive messages for users and logs. Please note that this is a learning-oriented application.
 
